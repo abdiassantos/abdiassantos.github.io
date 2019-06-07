@@ -1,5 +1,6 @@
 {
   "projects": {
-    "portifolioprofissional": "portifolio-profissional"
+    "portifolioprofissional": "portifolio-profissional",
+    "default": "portifolio-profissional"
   }
 }
